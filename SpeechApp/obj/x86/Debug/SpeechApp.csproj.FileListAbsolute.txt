@@ -1,0 +1,15 @@
+C:\Users\20\AppData\Local\Temporary Projects\SpeechApp\bin\Debug\SpeechApp.exe
+C:\Users\20\AppData\Local\Temporary Projects\SpeechApp\bin\Debug\SpeechApp.pdb
+C:\Users\20\AppData\Local\Temporary Projects\SpeechApp\obj\x86\Debug\SpeechApp.Form1.resources
+C:\Users\20\AppData\Local\Temporary Projects\SpeechApp\obj\x86\Debug\SpeechApp.Properties.Resources.resources
+C:\Users\20\AppData\Local\Temporary Projects\SpeechApp\obj\x86\Debug\SpeechApp.csproj.GenerateResource.Cache
+C:\Users\20\AppData\Local\Temporary Projects\SpeechApp\obj\x86\Debug\SpeechApp.exe
+C:\Users\20\AppData\Local\Temporary Projects\SpeechApp\obj\x86\Debug\SpeechApp.pdb
+C:\Users\20\Documents\Visual Studio 2010\Projects\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.exe
+C:\Users\20\Documents\Visual Studio 2010\Projects\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.pdb
+C:\Users\20\Documents\Visual Studio 2010\Projects\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe
+C:\Users\20\Documents\Visual Studio 2010\Projects\SpeechApp\SpeechApp\bin\Debug\SpeechApp.pdb
+C:\Users\20\Documents\Visual Studio 2010\Projects\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.Form1.resources
+C:\Users\20\Documents\Visual Studio 2010\Projects\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.Properties.Resources.resources
+C:\Users\20\Documents\Visual Studio 2010\Projects\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.csproj.GenerateResource.Cache
+C:\Users\20\Documents\Visual Studio 2010\Projects\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.csprojResolveAssemblyReference.cache

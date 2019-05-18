@@ -1,0 +1,16 @@
+Speech To Text/Text To Speech App
+
+
+
+Libraries used: System.Speech
+
+
+
+How to use: Open with visual studio. The main form contains four elements: A textbox,two buttons and a slider
+
+
+How it works:If you press the Speak button then the builtin voice synthesizer should speak the words you have typed. 
+	     If you press the listen button and speak into the microphone or any default input audio device you have setup
+	     then the words you have said should appear on the textbox. Finally If you Press the exit button it should exit
+	     the application.	
+		
